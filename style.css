@@ -1,0 +1,17 @@
+.search-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.search-button:hover {
+  background-color: #454EA0; /* Darker background color */
+}
+.search-button:active {
+  background-color: #8E3E3E; /* Even darker background color */
+}
